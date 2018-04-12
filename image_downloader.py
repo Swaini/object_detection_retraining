@@ -1,6 +1,7 @@
 # In[ ]:
 #  coding: utf-8
-
+# This file is a copy of https://github.com/hardikvasa/google-images-download
+# slightly changed(rename of the images) to be easier the training of the detection model
 ###### Searching and Downloading Google Images to the local disk ######
 
 # Import Libraries
